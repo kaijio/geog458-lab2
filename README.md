@@ -1,1 +1,3 @@
-# geog458-lab2
+# GEOG 456 Lab 2
+
+In this lab, I have collected tweets within the United States at 2 different times during the day. I first ran the Twitter crawler in the morning and a second time in the evening. I wanted to compare the difference between tweets in the morning versus tweets in the evening time. After comparing the two word clouds, I found that they both used the word "Co" many times. In fact, it was the most used word in both word clouds. This could be because "co" is one of the most common pre-fixes in the English language. I observed that the tweets in the morning time often contained words like "job", "new", "go", "time", and "work". These words seem to have a connotation of people getting ready to work and have a productive day. I noticed that tweets in the evening time often contained words like "Go", "Pm", "Love", and "Game". These words seem to be related to activities common during the evening and after people get off work.  
